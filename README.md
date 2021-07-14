@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vladimir
-- 👀 I’m interested in React, Redux, MongoDB, express ...
+- 👀 I’m interested in React, Redux, MongoDB, Node js, express ...
 - 🌱 I’m currently learning JWT implementation with express node js API application
 - 💞️ I’m looking to collaborate on JWT with node js
 - 📫 How to reach me: vladimir.vorobiev@gmail.com
